@@ -12,7 +12,7 @@ Resistivity Earth Models
 
 Input Parameters:
 - electrode current, "a" spacing, array type
-- x,z,radius of buried sphere
+- x, z, radius of buried sphere
 - depth,thickness of heterogeneous layers
 - resistivities of heterogenous components
 
