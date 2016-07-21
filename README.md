@@ -1,4 +1,4 @@
-# ERT-sim
+# ERTSim2D
 A geophysical python package, simulating a 2D Electrical Resistance Tomography (ERT) survey.
 
 The package will contain all the necessesary modules to forward model DC resistivity with varying
